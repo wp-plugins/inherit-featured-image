@@ -15,7 +15,7 @@ Inherit the featured image of the parent, grand-parent, etc.
 
 The plugin hooks into the 'get_post_metadata' WordPress filter, so featured images are assigned dynamically -- disable the plugin to remove the dynamically assigned featured images.
 
-The plugin also uses the WordPress `wp_cache_get()` and `update_meta_cache()` functions to integrate fully with WordPress core functionality.
+The plugin also uses the WordPress `wp_cache_get()` and `update_meta_cache()` functions to integrate fully with core WordPress functionality.
 
 == Installation ==
 
