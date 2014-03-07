@@ -1,6 +1,5 @@
 === Inherit Featured Image ===
 Contributors: jsmoriss
-Donate link: http://surniaulula.com/extend/plugins/contribution-form/
 Tags: inherit, parent, featured, image
 License: GPLv2 or later
 Requires at least: 2.9
