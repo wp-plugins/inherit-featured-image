@@ -3,18 +3,16 @@ Contributors: jsmoriss
 Tags: inherit, parent, featured, image
 License: GPLv2 or later
 Requires at least: 2.9
-Tested up to: 3.7.1
+Tested up to: 3.9.1
 Stable tag: 1.0
 
 Inherit the featured image of the parent, grand-parent, etc.
 
 == Description ==
 
-*If no featured image has been defined* for a post / page / custom post type, then the plugin assigns a featured image from the parent, grand-parent, etc.
+*If no featured image has been defined* for a post / page / custom post type, then the plugin assigns a featured image from the parent, grand-parent, etc. To override the inherited featured image, simply use the 'Add Media' button and its 'Set Featured Image' feature.
 
-The plugin hooks into the 'get_post_metadata' WordPress filter, so featured images are assigned dynamically -- disable the plugin to remove the dynamically assigned featured images.
-
-The plugin also uses the WordPress `wp_cache_get()` and `update_meta_cache()` functions to integrate fully with core WordPress functionality.
+The plugin hooks into the 'get_post_metadata' WordPress filter, so featured images are assigned dynamically -- disable the plugin to remove the dynamically assigned featured images. The plugin also uses the WordPress `wp_cache_get()` and `update_meta_cache()` functions to integrate fully with core WordPress functionality.
 
 == Installation ==
 
@@ -31,7 +29,7 @@ The plugin also uses the WordPress `wp_cache_get()` and `update_meta_cache()` fu
 *Manual*
 
 1. Download and unzip the plugin
-1. Upload the entire inherit-featured-image/ folder to the /wp-content/plugins/ directory
+1. Upload the entire `inherit-featured-image/` folder to the `wp-content/plugins/` directory
 1. Activate the plugin through the Plugins menu in WordPress
 
 == Frequently Asked Questions ==
