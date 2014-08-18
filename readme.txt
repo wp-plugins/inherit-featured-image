@@ -6,7 +6,7 @@ Requires at least: 2.9
 Tested up to: 3.9.1
 Stable tag: 1.0
 
-Inherit the featured image of the parent, grand-parent, etc.
+WordPress plugin to inherit the featured image of the Post / Page parent, grand-parent, etc.
 
 == Description ==
 
