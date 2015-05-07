@@ -1,10 +1,12 @@
 === Inherit Featured Image ===
+Plugin Name: Inherit Featured Image
+Plugin Slug: inherit-featured-image
 Contributors: jsmoriss
 Tags: inherit, parent, featured, image
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.txt
 Requires At Least: 3.0
-Tested Up To: 4.1.1
+Tested Up To: 4.2.2
 Stable Tag: 1.0
 
 WordPress plugin to inherit the featured image of the Post / Page parent, grand-parent, etc.
