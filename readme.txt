@@ -6,7 +6,7 @@ Tags: inherit, parent, featured, image
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.txt
 Requires At Least: 3.0
-Tested Up To: 4.2.4
+Tested Up To: 4.3
 Stable Tag: 1.0
 
 WordPress plugin to inherit the featured image of the Post / Page parent, grand-parent, etc.
